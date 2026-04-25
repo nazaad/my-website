@@ -1,56 +1,35 @@
 [
-  { "title": "Rice", "content": "Rice is the main staple food in Sri Lanka." },
-  { "title": "Tea", "content": "Ceylon tea is famous around the world." },
-  { "title": "Curry", "content": "Curry is a popular dish made with spices." },
-  { "title": "Fish", "content": "Fish is widely eaten in coastal areas." },
-  { "title": "Salt", "content": "Salt enhances the flavor of food." },
-  { "title": "Sugar", "content": "Sugar is used to sweeten foods and drinks." },
-  { "title": "Milk", "content": "Milk is a healthy drink rich in calcium." },
-  { "title": "Egg", "content": "Eggs are a good source of protein." },
-  { "title": "Bread", "content": "Bread is a common breakfast food." },
-  { "title": "Butter", "content": "Butter is made from milk and used in cooking." },
-
-  { "title": "Onion", "content": "Onion adds flavor to many dishes." },
-  { "title": "Garlic", "content": "Garlic is used for taste and health benefits." },
-  { "title": "Ginger", "content": "Ginger is used in cooking and medicine." },
-  { "title": "Chili", "content": "Chili makes food spicy." },
-  { "title": "Pepper", "content": "Pepper is a common spice in cooking." },
-  { "title": "Carrot", "content": "Carrot is a healthy vegetable rich in vitamins." },
-  { "title": "Beans", "content": "Beans are a good source of protein." },
-  { "title": "Potato", "content": "Potato is used in many dishes worldwide." },
-  { "title": "Tomato", "content": "Tomato is used in salads and curries." },
-  { "title": "Cabbage", "content": "Cabbage is a leafy green vegetable." },
-
-  { "title": "Banana", "content": "Banana is a sweet and healthy fruit." },
-  { "title": "Mango", "content": "Mango is known as the king of fruits." },
-  { "title": "Papaya", "content": "Papaya helps digestion." },
-  { "title": "Pineapple", "content": "Pineapple is a tropical fruit with sweet taste." },
-  { "title": "Orange", "content": "Orange is rich in vitamin C." },
-  { "title": "Apple", "content": "Apple is a popular fruit eaten worldwide." },
-  { "title": "Grapes", "content": "Grapes are used to make juice and wine." },
-  { "title": "Watermelon", "content": "Watermelon is refreshing in hot weather." },
-  { "title": "Lemon", "content": "Lemon is used in drinks and cooking." },
-  { "title": "Guava", "content": "Guava is rich in fiber and vitamins." },
-
-  { "title": "School", "content": "School is a place to learn education." },
-  { "title": "Teacher", "content": "Teacher helps students gain knowledge." },
-  { "title": "Student", "content": "Student learns new things daily." },
-  { "title": "Book", "content": "Book contains knowledge and stories." },
-  { "title": "Pen", "content": "Pen is used for writing." },
-  { "title": "Pencil", "content": "Pencil is used for drawing and writing." },
-  { "title": "Bag", "content": "Bag is used to carry school items." },
-  { "title": "Table", "content": "Table is used for studying and working." },
-  { "title": "Chair", "content": "Chair is used for sitting." },
-  { "title": "Classroom", "content": "Classroom is where students learn lessons." },
-
-  { "title": "Sun", "content": "Sun gives light and energy." },
-  { "title": "Moon", "content": "Moon shines at night." },
-  { "title": "Star", "content": "Stars are seen in the night sky." },
-  { "title": "Rain", "content": "Rain provides water for plants." },
-  { "title": "Wind", "content": "Wind is moving air." },
-  { "title": "Cloud", "content": "Clouds bring rain." },
-  { "title": "River", "content": "River flows with fresh water." },
-  { "title": "Sea", "content": "Sea contains salt water." },
-  { "title": "Mountain", "content": "Mountain is a high landform." },
-  { "title": "Forest", "content": "Forest has many trees and animals." }
+  {
+    "title": "Tea",
+    "content": "Tea is a popular beverage made by steeping dried leaves of the tea plant in hot water. It originated in China thousands of years ago and later spread across the world. In Sri Lanka, tea is known as Ceylon tea and was introduced by James Taylor in 1867. The country is one of the largest tea exporters globally. There are different types of tea such as black tea, green tea, and white tea. Tea is valued for its taste, cultural importance, and health benefits. China is the largest producer of tea, while Sri Lanka is famous for high-quality tea."
+  },
+  {
+    "title": "Mountain",
+    "content": "A mountain is a large natural elevation of land rising above the surrounding area. Mountains are formed by tectonic movements or volcanic activity over millions of years. The tallest mountain in the world is Mount Everest, located in the Himalayas. In Sri Lanka, the highest mountain is Pidurutalagala. Mountains can be small hills or extremely high peaks covered with snow. They are important for climate, water sources, and biodiversity, as many plants and animals live in mountain regions."
+  },
+  {
+    "title": "River",
+    "content": "A river is a natural stream of flowing water that usually moves toward a sea, ocean, or lake. Rivers are formed from rainfall, melting snow, or springs. The longest river in the world is the Nile River, while the Amazon River has the largest volume of water. In Sri Lanka, the Mahaweli River is the longest river. Rivers are essential for human life as they provide water, support agriculture, and serve as transport routes."
+  },
+  {
+    "title": "Sun",
+    "content": "The Sun is a star located at the center of the solar system. It provides heat and light, making life possible on Earth. The Sun is made mainly of hydrogen and helium gases and is about 4.6 billion years old. It is the largest object in the solar system and contains most of its mass. The Sun’s energy supports plant growth and weather systems. Without the Sun, life on Earth would not exist."
+  },
+  {
+    "title": "Moon",
+    "content": "The Moon is Earth's only natural satellite and orbits the planet once every 27 days. It reflects light from the Sun and appears bright at night. The Moon affects ocean tides and has phases such as full moon and new moon. It was first visited by humans during the Apollo 11 mission in 1969. The Moon has no atmosphere and its surface is covered with craters."
+  },
+  {
+    "title": "Rice",
+    "content": "Rice is a cereal grain and one of the most important staple foods in the world. It is widely grown in Asia and is the main food in countries like Sri Lanka, India, and China. Rice is cultivated in flooded fields called paddies. There are many types such as white rice, brown rice, and red rice. It provides energy and is usually eaten with curry or vegetables."
+  },
+  {
+    "title": "Forest",
+    "content": "A forest is a large area covered mainly with trees and vegetation. Forests are home to many animals and plants, making them important ecosystems. The Amazon Rainforest is the largest forest in the world. Forests help produce oxygen, absorb carbon dioxide, and regulate climate. In Sri Lanka, forests are important for wildlife and biodiversity."
+  },
+  {
+    "title": "Sea",
+    "content": "A sea is a large body of salt water that is smaller than an ocean. Seas are connected to oceans and support a wide variety of marine life. The largest ocean is the Pacific Ocean. Seas are important for fishing, transport, and climate regulation. Coastal countries like Sri Lanka depend on the sea for food and economy."
+  }
+]
 ]

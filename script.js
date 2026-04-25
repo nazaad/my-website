@@ -1,28 +1,28 @@
-fetch('articles.json')
-  .then(response => response.json())
-  .then(data => {
-    const content = document.getElementById("content");
+let articles = [];
 
-    data.forEach(item => {
-      const div = document.createElement("div");
-      div.className = "article";
-      div.setAttribute("data-title", item.title);
+fetch("articles.json")
+.then(res => res.json())
+.then(data => {
+  articles = data;
+  show(data);
+});
 
-      div.innerHTML = `
-        <h2>${item.title}</h2>
-        <p>${item.content}</p>
-      `;
+function show(data){
+  let list = document.getElementById("list");
+  list.innerHTML = "";
 
-      content.appendChild(div);
-    });
+  data.forEach((a, i) => {
+    list.innerHTML += `
+      <div class="card">
+        <h3>${a.title}</h3>
+        <p>${a.content.substring(0,100)}...</p>
+        <a href="article.html?id=${i}">Read More</a>
+      </div>
+    `;
   });
+}
 
-// Search
-const search = document.getElementById("search");
-search.addEventListener("keyup", function () {
-  let value = this.value.toLowerCase();
-  document.querySelectorAll(".article").forEach(article => {
-    let title = article.dataset.title.toLowerCase();
-    article.style.display = title.includes(value) ? "block" : "none";
-  });
+document.getElementById("search").addEventListener("input", e => {
+  let val = e.target.value.toLowerCase();
+  show(articles.filter(a => a.title.toLowerCase().includes(val)));
 });
