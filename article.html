@@ -11,23 +11,20 @@
 <div id="article"></div>
 
 <script>
-let slug = new URLSearchParams(window.location.search).get("id");
+let id = new URLSearchParams(window.location.search).get("id");
 
 fetch("articles.json")
-  .then(res => res.json())
-  .then(data => {
-    let article = data[slug];
+.then(res => res.json())
+.then(data => {
+  let a = data[id];
 
-    if(!article){
-      document.getElementById("article").innerHTML = "<h2>Article not found</h2>";
-      return;
-    }
-
-    document.getElementById("article").innerHTML = `
-      <h1>${article.title}</h1>
-      <p>${article.content}</p>
-    `;
-  });
+  document.getElementById("article").innerHTML = `
+    <h1>${a.title}</h1>
+    <img src="${a.image}" />
+    <h3>Category: ${a.category}</h3>
+    <p>${a.content}</p>
+  `;
+});
 </script>
 
 </body>

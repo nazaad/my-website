@@ -1,34 +1,26 @@
 [
   {
     "title": "Tea",
-    "content": "Tea is a popular beverage made by steeping dried leaves of the tea plant in hot water. It originated in China thousands of years ago and later spread across the world. In Sri Lanka, tea is known as Ceylon tea and was introduced by James Taylor in 1867. The country is one of the largest tea exporters globally. There are different types of tea such as black tea, green tea, and white tea. Tea is valued for its taste, cultural importance, and health benefits. China is the largest producer of tea, while Sri Lanka is famous for high-quality tea."
+    "category": "Food",
+    "image": "https://images.unsplash.com/photo-1505577058444-a3dab90d4253",
+    "content": "Tea is a popular drink made from tea leaves. It originated in China and is widely produced in Sri Lanka (Ceylon tea)."
   },
   {
     "title": "Mountain",
-    "content": "A mountain is a large natural elevation of land rising above the surrounding area. Mountains are formed by tectonic movements or volcanic activity over millions of years. The tallest mountain in the world is Mount Everest, located in the Himalayas. In Sri Lanka, the highest mountain is Pidurutalagala. Mountains can be small hills or extremely high peaks covered with snow. They are important for climate, water sources, and biodiversity, as many plants and animals live in mountain regions."
+    "category": "Nature",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "content": "Mountains are large natural elevations formed by tectonic forces. The highest is Mount Everest."
   },
   {
     "title": "River",
-    "content": "A river is a natural stream of flowing water that usually moves toward a sea, ocean, or lake. Rivers are formed from rainfall, melting snow, or springs. The longest river in the world is the Nile River, while the Amazon River has the largest volume of water. In Sri Lanka, the Mahaweli River is the longest river. Rivers are essential for human life as they provide water, support agriculture, and serve as transport routes."
+    "category": "Nature",
+    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21",
+    "content": "Rivers are flowing water bodies that travel from mountains to seas."
   },
   {
     "title": "Sun",
-    "content": "The Sun is a star located at the center of the solar system. It provides heat and light, making life possible on Earth. The Sun is made mainly of hydrogen and helium gases and is about 4.6 billion years old. It is the largest object in the solar system and contains most of its mass. The Sun’s energy supports plant growth and weather systems. Without the Sun, life on Earth would not exist."
-  },
-  {
-    "title": "Moon",
-    "content": "The Moon is Earth's only natural satellite and orbits the planet once every 27 days. It reflects light from the Sun and appears bright at night. The Moon affects ocean tides and has phases such as full moon and new moon. It was first visited by humans during the Apollo 11 mission in 1969. The Moon has no atmosphere and its surface is covered with craters."
-  },
-  {
-    "title": "Rice",
-    "content": "Rice is a cereal grain and one of the most important staple foods in the world. It is widely grown in Asia and is the main food in countries like Sri Lanka, India, and China. Rice is cultivated in flooded fields called paddies. There are many types such as white rice, brown rice, and red rice. It provides energy and is usually eaten with curry or vegetables."
-  },
-  {
-    "title": "Forest",
-    "content": "A forest is a large area covered mainly with trees and vegetation. Forests are home to many animals and plants, making them important ecosystems. The Amazon Rainforest is the largest forest in the world. Forests help produce oxygen, absorb carbon dioxide, and regulate climate. In Sri Lanka, forests are important for wildlife and biodiversity."
-  },
-  {
-    "title": "Sea",
-    "content": "A sea is a large body of salt water that is smaller than an ocean. Seas are connected to oceans and support a wide variety of marine life. The largest ocean is the Pacific Ocean. Seas are important for fishing, transport, and climate regulation. Coastal countries like Sri Lanka depend on the sea for food and economy."
+    "category": "Space",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "content": "The Sun is a star at the center of our solar system and provides energy for life."
   }
 ]
